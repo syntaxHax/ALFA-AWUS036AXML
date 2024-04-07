@@ -1,2 +1,5 @@
 # ALFA-AWUS036AXML
-ALFA-AWUS036AXML linux drivers
+- clone repo and extract
+- copy contents to /lib/firmware/mediatek
+- reboot
+- sudo ifconfig wlan0 up
